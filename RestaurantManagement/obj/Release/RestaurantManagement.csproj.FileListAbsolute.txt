@@ -1,0 +1,11 @@
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\bin\Release\RestaurantManagement.exe.config
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\bin\Release\RestaurantManagement.exe
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\bin\Release\RestaurantManagement.pdb
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.csproj.AssemblyReference.cache
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.fHome.resources
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.fLogin.resources
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.Properties.Resources.resources
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.csproj.GenerateResource.cache
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.exe
+D:\Projects\Winform C#\RestaurantManegement\RestaurantManagement\obj\Release\RestaurantManagement.pdb

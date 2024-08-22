@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Winform C#\\RestaurantManegement\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08842012-5E42-45E2-9403-7211CB48EDFD}|..\\ReataurantManagementSetup\\ReataurantManagementSetup.aiproj|D:\\Projects\\Winform C#\\RestaurantManegement\\ReataurantManagementSetup\\ReataurantManagementSetup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895F38A3-AD0E-4F70-AEE7-9196A0B6FF99}|RestaurantManagement.csproj|D:\\Projects\\Winform C#\\RestaurantManegement\\RestaurantManagement\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895F38A3-AD0E-4F70-AEE7-9196A0B6FF99}|RestaurantManagement.csproj|solutionrelative:flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReataurantManagementSetup.aip",
+              "DocumentMoniker": "D:\\Projects\\Winform C#\\RestaurantManegement\\ReataurantManagementSetup\\ReataurantManagementSetup.aip",
+              "RelativeDocumentMoniker": "..\\ReataurantManagementSetup\\ReataurantManagementSetup.aip",
+              "ToolTip": "D:\\Projects\\Winform C#\\RestaurantManegement\\ReataurantManagementSetup\\ReataurantManagementSetup.aip",
+              "RelativeToolTip": "..\\ReataurantManagementSetup\\ReataurantManagementSetup.aip",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI5SURBVDhPnZRLSFRRHMavTYtEBBMqa1G0qwjBaFW4sEhXGdJLKjQIIhdFDwJXbYQIkYg2JYFINREZJYIYoUUDFVFhBRZBEDHUbHpqEqjN7fedxzQz3omxD373\u002B5/7\u002BO45555zS4IsTZ5ZeRmrhmG4B4my9vc/8eIUhmF\u002BYAqrsi2jGXgCChePeMEUXlCZQMJWY69tq6AmDnxqr05OL15P3f/wQpNemKN5zqXNzv\u002BlMcLq8T4Y3dh2W8E5KibwF/SAhj4Cm0BaCwlCG23TygyZ4Sr4MyxUO09t9R/OLquMTYy0VAylzn3Z9ZhzlfaSkV5Yy/Cfq\u002BF7uA6yw77DtC2Dd7D76\u002B/y84S9pM4Ok0qhh57G1PCBdc6lKzuSHQ2Xvm3V/LyBzrsrjh\u002BDI9Q3dEOEtNTM0H2gvtZHWwZD4\u002Bmy3r7xuhPU/VADg1ALY1BIe3UwgcxRORx8O7W8hrAXnCpprbjThbfoutMw89SJx21zljbo4Ht4CgYPp44\u002BZbgPqFfFf2xZM5lesI36JNyCZyB1O8/XEh18oJlQNB8WqZgJY9ebkqdL2RldsB38Ig6d58tk\u002BUBtuSgdcp6tqHOSyTDrkE9\u002BFTOTGqFrcNGWJmyPLWcpzhzv8z286TxKCkg4CoVJJsMHDsArW/6X9KwybCBdTWP7QdtortIzrS4j00OFjmLNMJdQ3dvMs1q7RplAiQvqtnZEMcPXPfopmKF65fyxvfjqepH25k7QPl8KkpbGfdD/cMAP86\u002BC4A9iGq/nqQko9wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T05:04:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\Projects\\Winform C#\\RestaurantManegement\\RestaurantManagement\\fLogin.cs",
+              "RelativeDocumentMoniker": "fLogin.cs",
+              "ToolTip": "D:\\Projects\\Winform C#\\RestaurantManegement\\RestaurantManagement\\fLogin.cs",
+              "RelativeToolTip": "fLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:52:46.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
